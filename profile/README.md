@@ -45,14 +45,16 @@
 ### 1. 기존 프로젝트 추가
 
 1. 추가하고자 하는 Repository > `fork`
-<img width="1434" height="775" alt="Image" src="https://github.com/user-attachments/assets/89c2ce16-8322-41a5-ae83-82fddfb1b00d" />
+
+<img width="1434" height="775" alt="565432924-89c2ce16-8322-41a5-ae83-82fddfb1b00d" src="https://github.com/user-attachments/assets/a29805c4-c2aa-41bb-a89d-df97e04be9ff" />
+
 
 2. Owner (Organization이름) 설정 + Repository 이름 작성
 3. `Create fork` 클릭
-<img width="1438" height="775" alt="Image" src="https://github.com/user-attachments/assets/3a5f98a8-19bc-4e8a-bcf9-2c105d2074e6" />
+<img width="1438" height="775" alt="565432941-3a5f98a8-19bc-4e8a-bcf9-2c105d2074e6" src="https://github.com/user-attachments/assets/43903108-2cbc-4bf9-a45a-07769724f698" />
 
 4. 완료
-<img width="1435" height="741" alt="Image" src="https://github.com/user-attachments/assets/e8208752-65db-41d4-a149-2ca963e69b5a" />
+<img width="1435" height="741" alt="565434802-e8208752-65db-41d4-a149-2ca963e69b5a" src="https://github.com/user-attachments/assets/f5442b08-58f3-4e24-bf0b-4ef34b1ffbed" />
 
 
 
@@ -61,4 +63,5 @@
 ### 2. 신규 프로젝트 생성
 
 1. Organization > Repository > `New Repository` 생성
-<img width="1435" height="741" alt="Image" src="https://github.com/user-attachments/assets/3496e1e9-1a10-458f-93e6-72747689bf85" />
+<img width="1435" height="741" alt="565435276-3496e1e9-1a10-458f-93e6-72747689bf85" src="https://github.com/user-attachments/assets/0fb38c39-98a6-4926-b79a-f1157a5aea77" />
+
