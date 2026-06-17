@@ -1,4 +1,46 @@
-## Organization 내 프로젝트 추가 방법
+## 📍목차
+- [PLAIHF 프로젝트 적용 방법](#📍PLAIHF-프로젝트-적용-방법)
+- [Organization 내 프로젝트 추가 방법](#📍organization-내-프로젝트-추가-방법)
+
+<br>
+
+
+## 📍PLAIHF 프로젝트 적용 방법 
+
+### 1. PLAIHF 프로젝트 Clone
+- [PLAIHF 프로젝트](https://github.com/AX-Founder/PLAIHF) > Code > 복사 > 터미널을 통해 Clone / Download ZIP
+<img width="1423" height="472" alt="스크린샷 2026-06-17 오전 10 27 21" src="https://github.com/user-attachments/assets/dad8e424-502d-4a17-859f-43646d7893f7" />
+
+<br>
+
+- 터미널 Clone 명령어: `git clone https://github.com/AX-Founder/PLAIHF`
+<img width="767" height="216" alt="스크린샷 2026-06-17 오전 10 33 28" src="https://github.com/user-attachments/assets/0360f0bc-6804-4559-bf1c-13398d396a3c" />
+
+<br>
+
+- 다운로드 결과
+<img width="730" height="263" alt="스크린샷 2026-06-17 오전 10 35 58" src="https://github.com/user-attachments/assets/961f8331-0c0f-44c1-805e-9cc312764eef" />
+
+<br><br>
+
+### 2. 적용하려는 프로젝트에 PLAIHF 내용 복사/붙여넣기
+> 다른 AI를 사용한다면, AI에게 PLAIHF 지침 구조 변경 요청 후 복사/붙여넣기 통해 사용
+<img width="726" height="145" alt="스크린샷 2026-06-17 오전 10 39 22" src="https://github.com/user-attachments/assets/cd077fc3-3093-4c64-93fb-51c78ee2e76d" />
+
+<br><br>
+
+### 3. PLAIHF Repository의 README.md에 따라 작업
+- 큰 명령어 흐름
+
+`/generate-project` -> `/generate-prd` -> `/preview-ui` -> `/generate-tasks` -> `/validate-document` -> `/execute-coding`
+
+- CLI 기반 명령어 입력을 통해 사용
+<img width="1434" height="844" alt="스크린샷 2026-06-17 오전 10 45 33" src="https://github.com/user-attachments/assets/91e682b6-b9e1-4787-bdf5-9d5e442be37d" />
+
+<br>
+<br><br>
+
+## 📍Organization 내 프로젝트 추가 방법
 
 ### 1. 기존 프로젝트 추가
 
